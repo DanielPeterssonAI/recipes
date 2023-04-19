@@ -8,6 +8,8 @@ https://medium.com/pytorch/accelerating-pytorch-inference-with-torch-tensorrt-on
 ### **Optimize PyTorch for speed and memory efficiency**
 https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6
 
+https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259
+
 ### **NHWC (channels_last)**
 
 Changing ton channels last in a CNN saves about 1/3 of the computation time.
