@@ -32,3 +32,7 @@ would be desirable to have in the beginning of the forward method
 ```
 pip install nvidia-ml-py3
 ```
+### **torch GradScaler()**
+https://wandb.ai/wandb_fc/tips/reports/How-To-Use-GradScaler-in-PyTorch--VmlldzoyMTY5MDA5
+
+Also with an interesting Twitter post
