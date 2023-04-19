@@ -25,3 +25,8 @@ If training with channels_last, maybe
 x = x.to(memory_format = torch.channels_last)
 ```
 would be desirable to have in the beginning of the forward method
+
+### **Monitor GPU directly in python**
+```
+pip install nvidia-ml-py3
+```
