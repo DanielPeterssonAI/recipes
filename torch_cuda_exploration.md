@@ -36,3 +36,6 @@ pip install nvidia-ml-py3
 https://wandb.ai/wandb_fc/tips/reports/How-To-Use-GradScaler-in-PyTorch--VmlldzoyMTY5MDA5
 
 Also with an interesting Twitter post
+
+### **Disable GUI in Ubuntu**
+https://linuxconfig.org/how-to-disable-enable-gui-in-ubuntu-22-04-jammy-jellyfish-linux-desktop
