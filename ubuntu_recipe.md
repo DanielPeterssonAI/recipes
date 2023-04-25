@@ -62,11 +62,11 @@ pyenv global 3.10.6
 
 I use **venv** to create virtual environments. To set up a virtual environment inside a folder, just run
 ```
-python venv name-of-virual-environment
+python venv name-of-virtual-environment
 ```
 Then activate the environment
 ```
-source name-of-virual-environment/bin/activate
+source name-of-virtual-environment/bin/activate
 ```
 
 ## **VSCode with SSH**
