@@ -25,7 +25,7 @@ To login from another computer (on the same network)
 ssh username@hostname.local
 ```
 
-Top be able to remote control the machine with **RDP** (Remote Desktop), open *Settings*->*Sharing* and then *Screen sharing*. Enable `Remote Desktop` and `Remote Control`. To be able to use this, you must first login to the desktop environment on the server, then connect to the server with the client.
+Top be able to remote control the machine with **RDP** (Remote Desktop), open *Settings*->*Sharing* and then *Screen sharing*. Enable *Remote Desktop* **and** *Remote Control*. To be able to use this, you must first login to the desktop environment on the server, then connect to the server with a RDP client.
 
 ## **Python environment**
 
