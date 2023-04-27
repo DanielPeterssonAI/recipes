@@ -6,6 +6,8 @@ https://medium.com/pytorch/accelerating-pytorch-inference-with-torch-tensorrt-on
 3-4x performance boost on CUDA-GPU:s
 
 ### **Optimize PyTorch for speed and memory efficiency**
+Very good and straight forward: https://huggingface.co/docs/diffusers/v0.7.0/en/optimization/fp16
+
 https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
 
 https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6
